@@ -11,12 +11,6 @@ This project is based on the **Rock Paper Scissors** game. It works as shown bel
 
   #### Game Rules
 
-    <details>
-    <summary>Click to view the Game Rules</summary>
-    <br/>
-    <img src="https://assets.ccbp.in/frontend/react-js/rock-paper-scissor/rules-image.png" alt="rules image" style="width:500px" />
-    <br/>
-
   - Game result based on choices
 
     - When your choice is **paper** and the opponent choice is **rock**, then the result will be `YOU WON`
