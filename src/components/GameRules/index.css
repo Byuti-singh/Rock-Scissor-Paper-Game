@@ -1,0 +1,10 @@
+.rules-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+}
+
+.rules-img {
+  height: 50vh;
+}
